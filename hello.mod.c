@@ -24,6 +24,7 @@ __used
 __attribute__((section("__versions"))) = {
 	{ 0x367398b6, __VMLINUX_SYMBOL_STR(module_layout) },
 	{ 0x2e5810c6, __VMLINUX_SYMBOL_STR(__aeabi_unwind_cpp_pr1) },
+	{ 0x27e1a049, __VMLINUX_SYMBOL_STR(printk) },
 	{ 0xb1ad28e0, __VMLINUX_SYMBOL_STR(__gnu_mcount_nc) },
 };
 
@@ -33,4 +34,4 @@ __attribute__((section(".modinfo"))) =
 "depends=";
 
 
-MODULE_INFO(srcversion, "281025AEA576BD9AF349DDA");
+MODULE_INFO(srcversion, "F87452308ED496E8EE273C8");

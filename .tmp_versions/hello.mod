@@ -1,3 +1,3 @@
-/home/pi/Documents/helloworld/hello.ko
-/home/pi/Documents/helloworld/hello.o
+/home/pi/Documents/hello/hello.ko
+/home/pi/Documents/hello/hello.o
 
